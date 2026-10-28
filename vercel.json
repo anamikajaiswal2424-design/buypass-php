@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "*.php",
+      "src": "index.php",
       "use": "@vercel/serverless@2.1.0",
       "config": { "runtime": "vercel-php" }
     }
