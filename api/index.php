@@ -5,7 +5,7 @@
 // ✅ Real User ko 0.8 sec Loading dikhakar Auto-Pass
 // =====================================================
 
-$REAL_SITE = 'https://www.YOUR-REAL-DOMAIN.com/'; // <--- Real Domain
+$REAL_SITE = 'https://newkartkitchen.vercel.app/'; // <--- Real Domain
 
 // 1. IP & Geo Helper (Same like before)
 function _ip() {
